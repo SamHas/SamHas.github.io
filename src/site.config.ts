@@ -126,7 +126,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         eyebrowText: 'Galaxy of Adventures',
-        title: 'Space Ahead ✨',
+        title: 'Aissam El Hasnaoui Portfolio',
         text: "Written by Astro-naut Sid, a space explorer at Beyond Earth.",
         image: {
             src: '/assets/images/pixeltrue-space-discovery.svg',
